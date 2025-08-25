@@ -1,0 +1,29 @@
+{
+  "name": "Test NFT",
+  "symbol": "TST",
+  "description": "This is a test NFT metadata example for Solana.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+  "attributes": [
+    { "trait_type": "Mouth", "value": "Grin" },
+    { "trait_type": "Clothes", "value": "Vietnam Jacket" },
+    { "trait_type": "Background", "value": "Orange" },
+    { "trait_type": "Eyes", "value": "Blue Beams" },
+    { "trait_type": "Fur", "value": "Robot" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "So11111111111111111111111111111111111111112",
+        "share": 100
+      }
+    ]
+  }
+}
